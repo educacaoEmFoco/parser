@@ -104,7 +104,11 @@ public class Parser {
 
 			String valores[] = mapaDeInformacoes.get(key);
 			for (int i = 1; i < headers.length; i++) {
-				print.print(headers[i] + ": " + valores[i]);
+				if(valores[i].equalsIgnoreCase("-"))
+					print.print(headers[i] + ": " + 0);
+				else
+					print.print(headers[i] + ": " + valores[i]);
+				
 				print.println();
 			}
 
