@@ -1,0 +1,63 @@
+Coluna;Periodicidade
+UF;2005;2006;2007;2008;2009;2010;Total
+Acre;-;-;1;1;1;-;3
+Alagoas;-;-;-;7;7;5;19
+Amazonas;-;-;-;2;2;1;5
+Bahia;-;-;3;13;12;2;30
+Ceará;1;-;3;21;21;8;54
+Distrito Federal;2;-;-;9;10;1;22
+Espírito Santo;-;-;-;3;3;1;7
+Goiás;-;-;2;11;12;2;27
+Maranhão;-;-;1;4;4;2;11
+Mato Grosso;-;-;-;5;5;1;11
+Mato Grosso do Sul;-;-;-;6;6;3;15
+Minas Gerais;2;1;5;50;50;19;127
+Pará;-;-;-;10;9;-;19
+Paraíba;1;-;1;12;12;5;31
+Paraná;-;1;4;35;35;16;91
+Pernambuco;2;-;3;20;19;8;52
+Piauí;-;-;-;4;3;2;9
+Rio de Janeiro;2;1;5;48;48;20;124
+Rio Grande do Norte;-;-;2;5;4;3;14
+Rio Grande do Sul;1;-;12;53;52;20;138
+Rondônia;-;-;2;1;1;-;4
+Santa Catarina;-;-;2;20;18;4;44
+São Paulo;4;1;28;74;72;29;208
+Sergipe;-;-;1;4;5;4;14
+Tocantins;-;-;-;3;3;1;7
+Total;15;4;75;421;414;157;1086
+
+Seleções vigentes
+Variável;Critério;Valor
+Grupo Informação;igual a;Fomento para ciência e tecnologia
+Periodicidade;maior ou igual a;2005
+Periodicidade;menor ou igual a;2010
+UF;igual a;Acre
+;;Alagoas
+;;Amazonas
+;;Amapá
+;;Bahia
+;;Ceará
+;;Distrito Federal
+;;Espírito Santo
+;;Goiás
+;;Maranhão
+;;Minas Gerais
+;;Mato Grosso do Sul
+;;Mato Grosso
+;;Pará
+;;Paraíba
+;;Pernambuco
+;;Piauí
+;;Paraná
+;;Rio de Janeiro
+;;Rio Grande do Norte
+;;Rondônia
+;;Roraima
+;;Rio Grande do Sul
+;;Santa Catarina
+;;Sergipe
+;;São Paulo
+;;Tocantins
+;;Uf não Identificada
+VAUF;igual a;Uf

@@ -1,0 +1,65 @@
+Coluna;Periodicidade
+UF;2009
+Acre;691132
+Alagoas;3156108
+Amapá;626609
+Amazonas;3393369
+Bahia;14637364
+Ceará;8547809
+Distrito Federal;2606885
+Espírito Santo;3487199
+Goiás;5926300
+Maranhão;6367138
+Mato Grosso;3001692
+Mato Grosso do Sul;2360498
+Minas Gerais;20033665
+Pará;7431020
+Paraíba;3769977
+Paraná;10686247
+Pernambuco;8810256
+Piauí;3145325
+Rio de Janeiro;16010429
+Rio Grande do Norte;3137541
+Rio Grande do Sul;10914128
+Rondônia;1503928
+Roraima;421499
+Santa Catarina;6118743
+São Paulo;41384039
+Sergipe;2019679
+Tocantins;1292051
+Total;191480630
+
+Seleções vigentes
+Variável;Critério;Valor
+Grupo Informação;igual a;População
+Periodicidade;maior ou igual a;2009
+Periodicidade;menor ou igual a;2009
+UF;igual a;Acre
+;;Alagoas
+;;Amazonas
+;;Amapá
+;;Bahia
+;;Ceará
+;;Distrito Federal
+;;Espírito Santo
+;;Goiás
+;;Maranhão
+;;Minas Gerais
+;;Mato Grosso do Sul
+;;Mato Grosso
+;;Pará
+;;Paraíba
+;;Pernambuco
+;;Piauí
+;;Paraná
+;;Rio de Janeiro
+;;Rio Grande do Norte
+;;Rondônia
+;;Roraima
+;;Rio Grande do Sul
+;;Santa Catarina
+;;Sergipe
+;;São Paulo
+;;Tocantins
+;;Uf não Identificada
+VAUF;igual a;Uf

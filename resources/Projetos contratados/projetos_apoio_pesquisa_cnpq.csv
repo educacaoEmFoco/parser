@@ -1,0 +1,66 @@
+Coluna;Periodicidade
+UF;2001;2002;2003;2004;2005;2006;2007;2008;2009;2010;Total
+Acre;5;8;9;7;11;13;26;27;16;11;133
+Alagoas;25;6;14;26;30;35;84;107;79;63;469
+Amapá;2;2;2;3;4;4;8;9;6;3;43
+Amazonas;59;54;91;70;68;131;206;292;157;154;1282
+Bahia;141;49;85;143;202;197;374;379;284;204;2058
+Ceará;121;50;103;120;159;166;370;410;278;202;1979
+Distrito Federal;249;184;226;313;256;284;580;652;556;400;3700
+Espírito Santo;25;18;18;39;44;47;91;107;105;73;567
+Goiás;34;15;48;51;81;71;172;194;167;111;944
+Maranhão;24;15;23;22;28;32;78;88;63;55;428
+Mato Grosso;22;26;34;28;34;36;64;79;60;45;428
+Mato Grosso do Sul;16;3;31;38;51;45;82;132;84;56;538
+Minas Gerais;491;257;348;465;731;707;1109;1239;1034;654;7035
+Pará;82;73;94;113;122;156;268;238;167;119;1432
+Paraíba;89;43;84;111;130;131;312;312;241;178;1631
+Paraná;306;123;191;237;353;305;525;685;552;344;3621
+Pernambuco;173;116;148;211;271;295;570;551;387;306;3028
+Piauí;10;6;13;21;24;28;46;56;42;32;278
+Rio de Janeiro;1060;513;720;994;1214;1300;1870;1712;1391;976;11750
+Rio Grande do Norte;65;39;59;94;121;116;223;223;184;147;1271
+Rio Grande do Sul;502;273;451;583;752;706;1220;1330;1022;673;7512
+Rondônia;2;7;7;20;12;28;46;52;39;29;242
+Roraima;5;6;7;18;9;5;16;21;17;9;113
+Santa Catarina;226;101;134;177;272;268;391;494;369;209;2641
+São Paulo;940;551;791;1107;1652;1640;2500;2667;2120;1311;15279
+Sergipe;20;7;12;20;37;31;69;83;71;65;415
+Tocantins;4;7;10;8;23;16;53;59;34;28;242
+Uf não Identificada;280;157;135;56;19;131;196;160;239;219;1592
+Total;4978;2709;3888;5095;6710;6924;11549;12358;9764;6676;70651
+
+Seleções vigentes
+Variável;Critério;Valor
+Grupo Informação;igual a;Fomento para ciência e tecnologia
+Periodicidade;maior ou igual a;2001
+Periodicidade;menor ou igual a;2010
+UF;igual a;Acre
+;;Alagoas
+;;Amazonas
+;;Amapá
+;;Bahia
+;;Ceará
+;;Distrito Federal
+;;Espírito Santo
+;;Goiás
+;;Maranhão
+;;Minas Gerais
+;;Mato Grosso do Sul
+;;Mato Grosso
+;;Pará
+;;Paraíba
+;;Pernambuco
+;;Piauí
+;;Paraná
+;;Rio de Janeiro
+;;Rio Grande do Norte
+;;Rondônia
+;;Roraima
+;;Rio Grande do Sul
+;;Santa Catarina
+;;Sergipe
+;;São Paulo
+;;Tocantins
+;;Uf não Identificada
+VAUF;igual a;Uf
